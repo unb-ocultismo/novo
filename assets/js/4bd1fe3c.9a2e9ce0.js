@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[480],{2669:s=>{s.exports=JSON.parse('{"label":"progresso","permalink":"/novo/blog/tags/progresso","allTagsPath":"/novo/blog/tags","count":3}')}}]);

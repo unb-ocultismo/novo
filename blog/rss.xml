@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>HanabiWorks Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/novo/blog</link>
         <description>HanabiWorks Blog</description>
         <lastBuildDate>Mon, 22 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Tsukihime Remake!!!]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/terceiro-post</link>
+            <link>https://your-docusaurus-test-site.com/novo/blog/terceiro-post</link>
             <guid>terceiro-post</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Olá a todos! Esse post eu gostaria de anunciar meu patch de Tsukihime Remake, mas antes, gostaria de dizer que eu nem planejava muito traduzir esse jogo, porém acabei me divertindo bastante, aponto de de traduzir uns 6% total.]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[Primeiro lançamento de Summer Pockets]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/segundo-post</link>
+            <link>https://your-docusaurus-test-site.com/novo/blog/segundo-post</link>
             <guid>segundo-post</guid>
             <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[1]]></description>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Mini história da Fansub]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/primeiro-post</link>
+            <link>https://your-docusaurus-test-site.com/novo/blog/primeiro-post</link>
             <guid>primeiro-post</guid>
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Shiroha]]></description>

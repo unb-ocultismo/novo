@@ -9,7 +9,7 @@ const config = {
   title: 'HanabiWorks',
   tagline: 'Somos uma fansub focada em traduzir Visuais Novels devido nossa paixão por esse gênero. Nosso objetivo é deixar esse tipo de jogo acessível atravéz de nossas traduções.',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/novo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   //favicon: 'img/favicon.ico',
