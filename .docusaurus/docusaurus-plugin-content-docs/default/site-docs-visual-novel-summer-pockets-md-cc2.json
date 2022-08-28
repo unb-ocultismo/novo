@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Visual Novel/summer-pockets",
+  "id": "Visual Novel/summer-pockets",
+  "title": "summer-pockets",
+  "description": "",
+  "source": "@site/docs/Visual Novel/summer-pockets.md",
+  "sourceDirName": "Visual Novel",
+  "slug": "/Visual Novel/summer-pockets",
+  "permalink": "/docs/Visual Novel/summer-pockets",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "yosuga-no-sora",
+    "permalink": "/docs/Visual Novel/yosuga-no-sora"
+  }
+}

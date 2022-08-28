@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Visual Novel/yosuga no sora",
+  "id": "Visual Novel/yosuga no sora",
+  "title": "yosuga no sora",
+  "description": "Isso é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.",
+  "source": "@site/docs/Visual Novel/yosuga no sora.md",
+  "sourceDirName": "Visual Novel",
+  "slug": "/Visual Novel/yosuga no sora",
+  "permalink": "/docs/Visual Novel/yosuga no sora",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Visual Novel",
+    "permalink": "/docs/category/visual-novel"
+  }
+}

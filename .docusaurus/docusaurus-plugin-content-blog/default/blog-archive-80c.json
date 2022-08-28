@@ -1,0 +1,169 @@
+{
+  "blogPosts": [
+    {
+      "id": "terceiro-post",
+      "metadata": {
+        "permalink": "/blog/terceiro-post",
+        "source": "@site/blog/2021-11-22-tsukihime.md",
+        "title": "Tsukihime Remake!!!",
+        "description": "Olá a todos! Esse post eu gostaria de anunciar meu patch de Tsukihime Remake, mas antes, gostaria de dizer que eu nem planejava muito traduzir esse jogo, porém acabei me divertindo bastante, aponto de de traduzir uns 6% total.",
+        "date": "2021-11-22T00:00:00.000Z",
+        "formattedDate": "November 22, 2021",
+        "tags": [
+          {
+            "label": "progresso",
+            "permalink": "/blog/tags/progresso"
+          },
+          {
+            "label": "anuncio",
+            "permalink": "/blog/tags/anuncio"
+          }
+        ],
+        "readingTime": 0.815,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          }
+        ],
+        "frontMatter": {
+          "slug": "terceiro-post",
+          "title": "Tsukihime Remake!!!",
+          "authors": {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          },
+          "tags": [
+            "progresso",
+            "anuncio"
+          ]
+        },
+        "nextItem": {
+          "title": "Primeiro lançamento de Summer Pockets",
+          "permalink": "/blog/segundo-post"
+        }
+      },
+      "content": "Olá a todos! Esse post eu gostaria de anunciar meu patch de Tsukihime Remake, mas antes, gostaria de dizer que eu nem planejava muito traduzir esse jogo, porém acabei me divertindo bastante, aponto de de traduzir uns 6% total.\r\n\r\n<!-- truncate -->\r\n\r\nOutra coisa que eu gostaria de comentar, é o fato que eu decidi gastar um tempo fazendo o jogo não ter Bugs estranhos na jogatina, como o espaçamento esquisito de certos carácteres e a linha quebrar no meio, pulando para a próxima linha, também a fonte foi mudada!!! Na print a seguir demonstrar muito bem isso. \r\n\r\n**antes**\r\n\r\n![1](https://i.imgur.com/EsN12G9.png)\r\n\r\n**Depois**\r\n\r\n![1](https://i.imgur.com/gA4APlw.png)\r\n\r\n Boa parte dos scripts foram traduzidos diretos do Japonês, porém encontrei um cara que estava traduzindo para o inglês, o que ajudou muito na revisão dos scripts.\r\n\r\nE por último, gostaria de pedir para quem puder, me ajudar na revisão desse jogo. É só me mandar mensagem no Server do Discord pedindo para isso!! Eu ficarei extremamente feliz por isso!!!\r\n\r\nAproveite!"
+    },
+    {
+      "id": "segundo-post",
+      "metadata": {
+        "permalink": "/blog/segundo-post",
+        "source": "@site/blog/2021-10-17-primeiro-patch.md",
+        "title": "Primeiro lançamento de Summer Pockets",
+        "description": "1",
+        "date": "2021-10-17T00:00:00.000Z",
+        "formattedDate": "October 17, 2021",
+        "tags": [
+          {
+            "label": "progresso",
+            "permalink": "/blog/tags/progresso"
+          },
+          {
+            "label": "anuncio",
+            "permalink": "/blog/tags/anuncio"
+          }
+        ],
+        "readingTime": 1.08,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          }
+        ],
+        "frontMatter": {
+          "slug": "segundo-post",
+          "title": "Primeiro lançamento de Summer Pockets",
+          "authors": {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          },
+          "tags": [
+            "progresso",
+            "anuncio"
+          ]
+        },
+        "prevItem": {
+          "title": "Tsukihime Remake!!!",
+          "permalink": "/blog/terceiro-post"
+        },
+        "nextItem": {
+          "title": "Mini história da Fansub",
+          "permalink": "/blog/primeiro-post"
+        }
+      },
+      "content": "![1](https://i.imgur.com/Rf7KP4L.png)\r\n\r\nVoltei aqui no meu segundo post para anunciar algo bem importante, a rota comum + rota da Ao estão 100% traduzidas!!! E além disso, estarei disponibilizando para geral, porém gostaria que todos que forem jogar reportem os erros que encontrarem e deem feedback no meu servidor para aumentar a qualidade da tradução. \r\n\r\n<!-- truncate -->\r\n\r\n![1](https://i.imgur.com/5sXNdxH.png)\r\n\r\n Explicando mais um pouco, esse patch é compatível com a versão da Steam e terá todos os diálogos da rota comum, as interações entre a Umi, o Hairi e sua tia, e a rota da Ao completa. Por tanto, não haverá os diálogos extras que não acrescenta em nada(a exclamação na imagem abaixo) na história , nem os minigames como o Tênis de Mesa, Pekemon e Caça ao Islemon(todos na imagem abaixo) traduzidos. \r\n\r\n\r\n![1](https://i.imgur.com/25IS9O1.png)\r\n\r\n  Fora isso, eu gostaria de dizer mais duas coisas: **Primeiro**, caso você seja bom usando Photoshop, ou queira ser meu revisor, ficarei muito feliz em ter você dentro do meu projeto. Estamos sempre de portas abertas. **Segundo**, o site foi reformulado e agora ele não fica extremamente bugado como antes no celular ou em monitores pequenos(uma Print de como era antes). Agora que já disse tudo o que eu gostaria, vejo vocês no próximo Post. \r\n![1](https://i.imgur.com/fwHb6rS.png)\r\n\r\n  \"──Vamos encontrar aquelas memórias que pertencem a nós dois.\""
+    },
+    {
+      "id": "primeiro-post",
+      "metadata": {
+        "permalink": "/blog/primeiro-post",
+        "source": "@site/blog/2021-10-15-primeiro-post.md",
+        "title": "Mini história da Fansub",
+        "description": "Shiroha",
+        "date": "2021-10-15T00:00:00.000Z",
+        "formattedDate": "October 15, 2021",
+        "tags": [
+          {
+            "label": "off-topics",
+            "permalink": "/blog/tags/off-topics"
+          },
+          {
+            "label": "progresso",
+            "permalink": "/blog/tags/progresso"
+          },
+          {
+            "label": "anuncio",
+            "permalink": "/blog/tags/anuncio"
+          }
+        ],
+        "readingTime": 1.44,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          }
+        ],
+        "frontMatter": {
+          "slug": "primeiro-post",
+          "title": "Mini história da Fansub",
+          "authors": {
+            "name": "Rin chan",
+            "title": "Lider da fansub",
+            "url": "https://twitter.com/RinNatsume1",
+            "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+            "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+          },
+          "tags": [
+            "off-topics",
+            "progresso",
+            "anuncio"
+          ]
+        },
+        "prevItem": {
+          "title": "Primeiro lançamento de Summer Pockets",
+          "permalink": "/blog/segundo-post"
+        }
+      },
+      "content": "![Shiroha](https://i.imgur.com/0Xk3Nq1.png)\r\n\r\nOlá, essa será minha primeira vez escrevendo nesse blog meio mal feito(foi programado em HTML e CSS por mim mesmo que não sou nada bom nisso). Em primeiro lugar, gostaria de lembrar que já faz 10 meses desde a criação dessa Fansub e até agora não tinha nenhum lugar para ver as notícias dos projetos e tals. Pois bem, acabei de criar.\r\n\r\n<!-- truncate -->\r\n\r\nAgora eu irei explicar um pouco da história da fansub. Em meados de dezembro, eu pretendia criar uma comunidade de visual novels BRs, e a melhor forma que pensei foi em criar uma fansub. Na procura do primeiro projeto, lembrei de uma das primeiras VNs que joguei, e essa era Yosuga no Sora. Então, após me frustrar muito tentando traduzir Grisaia, decidi traduzir o YnS. Após 6 meses, consegui terminar a rota da Sora.\r\n\r\nNesse longo caminho, usei meu server do Discord como métrica para medir a popularidade e também para conseguir criar uma pequena comunidade que cresceu mais rápido do que eu podia esperar. \r\n\r\n![Kamone](https://i.imgur.com/FP9eEDQ.png)\r\n\r\n Eu sou um grande fã da Key(principalmente as obras escritas pelo Jun Maeda), tendo zerado diversos jogos, como Air, Clannad, Summer Pockets e o meu favorito, Little Busters(por isso meu nick é Rin-chan).\r\n\r\nDepois que eu terminei Summer Pockets percebi que tive uma excelente experiência com a VN, me fazendo ter tanta vontade de abrir um projeto novo mesmo não tendo terminado o primeiro. Eu espero que as pessoas aproveitem dessa linda VN e tirem algumas reflexões de vida. Também gostaria de saber se vocês querem uma resenha ou algo do tipo. Eu gostaria de usar mais esse espaço do Blog para comentar minha opinião.\r\n\r\nComo já me cansei de escrever, então… Até a próxima postagem"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/primeiro-post",
+  "source": "@site/blog/2021-10-15-primeiro-post.md",
+  "title": "Mini história da Fansub",
+  "description": "Shiroha",
+  "date": "2021-10-15T00:00:00.000Z",
+  "formattedDate": "October 15, 2021",
+  "tags": [
+    {
+      "label": "off-topics",
+      "permalink": "/blog/tags/off-topics"
+    },
+    {
+      "label": "progresso",
+      "permalink": "/blog/tags/progresso"
+    },
+    {
+      "label": "anuncio",
+      "permalink": "/blog/tags/anuncio"
+    }
+  ],
+  "readingTime": 1.44,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Rin chan",
+      "title": "Lider da fansub",
+      "url": "https://twitter.com/RinNatsume1",
+      "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+      "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+    }
+  ],
+  "frontMatter": {
+    "slug": "primeiro-post",
+    "title": "Mini história da Fansub",
+    "authors": {
+      "name": "Rin chan",
+      "title": "Lider da fansub",
+      "url": "https://twitter.com/RinNatsume1",
+      "image_url": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg",
+      "imageURL": "https://pbs.twimg.com/profile_images/1476722205002248195/9cxWQhEf_400x400.jpg"
+    },
+    "tags": [
+      "off-topics",
+      "progresso",
+      "anuncio"
+    ]
+  },
+  "prevItem": {
+    "title": "Primeiro lançamento de Summer Pockets",
+    "permalink": "/blog/segundo-post"
+  }
+}

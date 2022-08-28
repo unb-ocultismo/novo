@@ -1,0 +1,26 @@
+{
+  "unversionedId": "antigo/tutorial-basics/create-a-page",
+  "id": "antigo/tutorial-basics/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/antigo/tutorial-basics/create-a-page.md",
+  "sourceDirName": "antigo/tutorial-basics",
+  "slug": "/antigo/tutorial-basics/create-a-page",
+  "permalink": "/docs/antigo/tutorial-basics/create-a-page",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/antigo/tutorial-basics/create-a-document"
+  }
+}
