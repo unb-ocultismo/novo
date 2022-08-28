@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>HanabiWorks Blog</title>
+    <updated>2021-11-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>HanabiWorks Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Tsukihime Remake!!!]]></title>
+        <id>terceiro-post</id>
+        <link href="https://your-docusaurus-test-site.com/blog/terceiro-post"/>
+        <updated>2021-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Olá a todos! Esse post eu gostaria de anunciar meu patch de Tsukihime Remake, mas antes, gostaria de dizer que eu nem planejava muito traduzir esse jogo, porém acabei me divertindo bastante, aponto de de traduzir uns 6% total.]]></summary>
+        <content type="html"><![CDATA[<p>Olá a todos! Esse post eu gostaria de anunciar meu patch de Tsukihime Remake, mas antes, gostaria de dizer que eu nem planejava muito traduzir esse jogo, porém acabei me divertindo bastante, aponto de de traduzir uns 6% total.</p><p>Outra coisa que eu gostaria de comentar, é o fato que eu decidi gastar um tempo fazendo o jogo não ter Bugs estranhos na jogatina, como o espaçamento esquisito de certos carácteres e a linha quebrar no meio, pulando para a próxima linha, também a fonte foi mudada!!! Na print a seguir demonstrar muito bem isso. </p><p><strong>antes</strong></p><p><img loading="lazy" src="https://i.imgur.com/EsN12G9.png" alt="1" class="img_ev3q"></p><p><strong>Depois</strong></p><p><img loading="lazy" src="https://i.imgur.com/gA4APlw.png" alt="1" class="img_ev3q"></p><p> Boa parte dos scripts foram traduzidos diretos do Japonês, porém encontrei um cara que estava traduzindo para o inglês, o que ajudou muito na revisão dos scripts.</p><p>E por último, gostaria de pedir para quem puder, me ajudar na revisão desse jogo. É só me mandar mensagem no Server do Discord pedindo para isso!! Eu ficarei extremamente feliz por isso!!!</p><p>Aproveite!</p>]]></content>
+        <author>
+            <name>Rin chan</name>
+            <uri>https://twitter.com/RinNatsume1</uri>
+        </author>
+        <category label="progresso" term="progresso"/>
+        <category label="anuncio" term="anuncio"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primeiro lançamento de Summer Pockets]]></title>
+        <id>segundo-post</id>
+        <link href="https://your-docusaurus-test-site.com/blog/segundo-post"/>
+        <updated>2021-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://i.imgur.com/Rf7KP4L.png" alt="1" class="img_ev3q"></p><p>Voltei aqui no meu segundo post para anunciar algo bem importante, a rota comum + rota da Ao estão 100% traduzidas!!! E além disso, estarei disponibilizando para geral, porém gostaria que todos que forem jogar reportem os erros que encontrarem e deem feedback no meu servidor para aumentar a qualidade da tradução. </p><p><img loading="lazy" src="https://i.imgur.com/5sXNdxH.png" alt="1" class="img_ev3q"></p><p> Explicando mais um pouco, esse patch é compatível com a versão da Steam e terá todos os diálogos da rota comum, as interações entre a Umi, o Hairi e sua tia, e a rota da Ao completa. Por tanto, não haverá os diálogos extras que não acrescenta em nada(a exclamação na imagem abaixo) na história , nem os minigames como o Tênis de Mesa, Pekemon e Caça ao Islemon(todos na imagem abaixo) traduzidos. </p><p><img loading="lazy" src="https://i.imgur.com/25IS9O1.png" alt="1" class="img_ev3q"></p><p>  Fora isso, eu gostaria de dizer mais duas coisas: <strong>Primeiro</strong>, caso você seja bom usando Photoshop, ou queira ser meu revisor, ficarei muito feliz em ter você dentro do meu projeto. Estamos sempre de portas abertas. <strong>Segundo</strong>, o site foi reformulado e agora ele não fica extremamente bugado como antes no celular ou em monitores pequenos(uma Print de como era antes). Agora que já disse tudo o que eu gostaria, vejo vocês no próximo Post.
+<img loading="lazy" src="https://i.imgur.com/fwHb6rS.png" alt="1" class="img_ev3q"></p><p>  "──Vamos encontrar aquelas memórias que pertencem a nós dois."</p>]]></content>
+        <author>
+            <name>Rin chan</name>
+            <uri>https://twitter.com/RinNatsume1</uri>
+        </author>
+        <category label="progresso" term="progresso"/>
+        <category label="anuncio" term="anuncio"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini história da Fansub]]></title>
+        <id>primeiro-post</id>
+        <link href="https://your-docusaurus-test-site.com/blog/primeiro-post"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shiroha]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://i.imgur.com/0Xk3Nq1.png" alt="Shiroha" class="img_ev3q"></p><p>Olá, essa será minha primeira vez escrevendo nesse blog meio mal feito(foi programado em HTML e CSS por mim mesmo que não sou nada bom nisso). Em primeiro lugar, gostaria de lembrar que já faz 10 meses desde a criação dessa Fansub e até agora não tinha nenhum lugar para ver as notícias dos projetos e tals. Pois bem, acabei de criar.</p><p>Agora eu irei explicar um pouco da história da fansub. Em meados de dezembro, eu pretendia criar uma comunidade de visual novels BRs, e a melhor forma que pensei foi em criar uma fansub. Na procura do primeiro projeto, lembrei de uma das primeiras VNs que joguei, e essa era Yosuga no Sora. Então, após me frustrar muito tentando traduzir Grisaia, decidi traduzir o YnS. Após 6 meses, consegui terminar a rota da Sora.</p><p>Nesse longo caminho, usei meu server do Discord como métrica para medir a popularidade e também para conseguir criar uma pequena comunidade que cresceu mais rápido do que eu podia esperar. </p><p><img loading="lazy" src="https://i.imgur.com/FP9eEDQ.png" alt="Kamone" class="img_ev3q"></p><p> Eu sou um grande fã da Key(principalmente as obras escritas pelo Jun Maeda), tendo zerado diversos jogos, como Air, Clannad, Summer Pockets e o meu favorito, Little Busters(por isso meu nick é Rin-chan).</p><p>Depois que eu terminei Summer Pockets percebi que tive uma excelente experiência com a VN, me fazendo ter tanta vontade de abrir um projeto novo mesmo não tendo terminado o primeiro. Eu espero que as pessoas aproveitem dessa linda VN e tirem algumas reflexões de vida. Também gostaria de saber se vocês querem uma resenha ou algo do tipo. Eu gostaria de usar mais esse espaço do Blog para comentar minha opinião.</p><p>Como já me cansei de escrever, então… Até a próxima postagem</p>]]></content>
+        <author>
+            <name>Rin chan</name>
+            <uri>https://twitter.com/RinNatsume1</uri>
+        </author>
+        <category label="off-topics" term="off-topics"/>
+        <category label="progresso" term="progresso"/>
+        <category label="anuncio" term="anuncio"/>
+    </entry>
+</feed>
